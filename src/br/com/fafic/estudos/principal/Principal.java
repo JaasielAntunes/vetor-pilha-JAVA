@@ -1,3 +1,5 @@
+// autor: Jaasiel Antunes
+
 package br.com.fafic.estudos.principal;
 
 import br.com.fafic.estudos.classes.Correspondencia;
